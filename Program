@@ -1,2 +1,23 @@
 #This is a H1 Header
 ##This is a H2 Header
+
+- list1
+- list2
+- list3
+
+1. list4
+2. list5
+3. list6
+4. [] list7
+5. [x] list8
+
+```cpp
+
+void display(){
+cout << "Hello world!" << endl;
+}
+
+```
+|one|two|three|
+|---|---|-----|
+|example1|example2|example3|
